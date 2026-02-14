@@ -25,8 +25,6 @@
     <img src="https://skillicons.dev/icons?i=python" height="60"/>
     <img src="https://skillicons.dev/icons?i=mysql" height="60"/>
     <img src="https://skillicons.dev/icons?i=postgres" height="60"/>
-    <img src="https://skillicons.dev/icons?i=pandas" height="60"/>
-    <img src="https://skillicons.dev/icons?i=numpy" height="60"/>
     <img src="https://skillicons.dev/icons?i=git" height="60"/>
     <img src="https://skillicons.dev/icons?i=github" height="60"/>
     <img src="https://img.icons8.com/color/48/power-bi.png" height="60"/>
