@@ -20,16 +20,20 @@
 
 # ⚙️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="60"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="60"/>
-  <img src="https://skillicons.dev/icons?i=postgres" height="60"/>
-  <img src="https://skillicons.dev/icons?i=pandas" height="60"/>
-  <img src="https://skillicons.dev/icons?i=numpy" height="60"/>
-  <img src="https://skillicons.dev/icons?i=excel" height="60"/>
-  <img src="https://skillicons.dev/icons?i=tableau" height="60"/>
-  <img src="https://skillicons.dev/icons?i=powerbi" height="60"/>
-  <img src="https://skillicons.dev/icons?i=git" height="60"/>
-  <img src="https://skillicons.dev/icons?i=github" height="60"/>
+  <table align="center">
+    <tr>
+      <td><img src="https://skillicons.dev/icons?i=python" height="60"/></td>
+      <td><img src="https://skillicons.dev/icons?i=mysql" height="60"/></td>
+      <td><img src="https://skillicons.dev/icons?i=postgres" height="60"/></td>
+      <td><img src="https://skillicons.dev/icons?i=pandas" height="60"/></td>
+      <td><img src="https://skillicons.dev/icons?i=numpy" height="60"/></td>
+      <td><img src="https://skillicons.dev/icons?i=excel" height="60"/></td>
+      <td><img src="https://skillicons.dev/icons?i=tableau" height="60"/></td>
+      <td><img src="https://skillicons.dev/icons?i=powerbi" height="60"/></td>
+      <td><img src="https://skillicons.dev/icons?i=git" height="60"/></td>
+      <td><img src="https://skillicons.dev/icons?i=github" height="60"/></td>
+    </tr>
+  </table>
 </p>
 
 ---
