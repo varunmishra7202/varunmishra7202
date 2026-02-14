@@ -19,6 +19,12 @@
 ---
 
 # ⚙️ Tech Stack
+
+<p align="center">
+  <!-- Neon VM Logo -->
+  <img src="https://svgshare.com/i/15yR.svg" height="90" alt="VM Logo"/>
+</p>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,postgres,pandas,numpy,excel,tableau,powerbi,git,github" />
 </p>
