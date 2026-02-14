@@ -20,20 +20,9 @@
 
 # ⚙️ Tech Stack
 <p align="center">
-  <table align="center">
-    <tr>
-      <td><img src="https://skillicons.dev/icons?i=python" height="60"/></td>
-      <td><img src="https://skillicons.dev/icons?i=mysql" height="60"/></td>
-      <td><img src="https://skillicons.dev/icons?i=postgres" height="60"/></td>
-      <td><img src="https://skillicons.dev/icons?i=pandas" height="60"/></td>
-      <td><img src="https://skillicons.dev/icons?i=numpy" height="60"/></td>
-      <td><img src="https://skillicons.dev/icons?i=excel" height="60"/></td>
-      <td><img src="https://skillicons.dev/icons?i=tableau" height="60"/></td>
-      <td><img src="https://skillicons.dev/icons?i=powerbi" height="60"/></td>
-      <td><img src="https://skillicons.dev/icons?i=git" height="60"/></td>
-      <td><img src="https://skillicons.dev/icons?i=github" height="60"/></td>
-    </tr>
-  </table>
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,pandas,numpy,git,github" height="60"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png" height="60"/>
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="60"/>
 </p>
 
 ---
