@@ -20,13 +20,8 @@
 
 # ⚙️ Tech Stack
 <p align="center">
-  <img src="./logo.svg" height="90" alt="VM Logo"/>
-</p>
-
-<p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,postgres,pandas,numpy,excel,tableau,powerbi,git,github" />
 </p>
-
 
 ---
 ## 🌐 Connect With Me
