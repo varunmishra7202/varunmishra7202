@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Varun+Mishra;Data+Analyst;Python+|+SQL+|+Power+BI;Turning+Data+Into+Insights+📊" />
 </h1>
 
-<h3 align="center">📊 Data Analyst / Data Enthusiast </h3>
+<h3 align="center">📊 Data Analyst  </h3>
 
 ---
 
@@ -19,15 +19,14 @@
 ---
 
 # ⚙️ Tech Stack
-
 <p align="center">
-  <!-- Neon VM Logo -->
-  <img src="https://svgshare.com/i/15yR.svg" height="90" alt="VM Logo"/>
+  <img src="./logo.svg" height="90" alt="VM Logo"/>
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,mysql,postgres,pandas,numpy,excel,tableau,powerbi,git,github" />
 </p>
+
 
 ---
 ## 🌐 Connect With Me
